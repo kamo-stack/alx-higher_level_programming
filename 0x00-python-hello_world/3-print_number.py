@@ -1,4 +1,3 @@
-#!/usr/bin/python3
+#!/usr/bin/pytho3
 number = 98
-print(f"{number}Battery street\n")
-
+print(f'{number} Battery  street')
