@@ -5,6 +5,6 @@ read_file("my_file_0.txt")
 
 guillaume@ubuntu:~/0x0B$ cat my_file_0.txt
 We offer a truly innovative approach to education:
-focus on building reliable applications and scalable systems, take on real-worldchallenges, collaborate with your peers.
+focus on building reliable applications and scalable systems, take on real-world challenges, collaborate with your peers. 
 
 A school every software engineer would have dreamt of!
